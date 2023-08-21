@@ -1,0 +1,16 @@
+{
+  "name": "puppeeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2",
+    "jest-puppeteer": "^9.0.0",
+    "puppeteer": "^21.0.3"
+  }
+}
