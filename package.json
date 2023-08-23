@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "cucumber": "cucumber-js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.7",
+    "chia": "^0.0.1",
+    "cucumber": "^6.0.7",
     "jest": "^29.6.2",
     "jest-puppeteer": "^9.0.0",
     "puppeteer": "^21.0.3"
